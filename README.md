@@ -81,10 +81,13 @@ Pequenas decisões no código podem ter grande impacto na segurança.
 Algumas linhas bem implementadas podem significar a diferença entre:
 
 🔥 Apagar incêndios em produção
+
 👀 Apenas monitorar um sistema seguro
+
 📸 Preview
 
 <img width="1349" height="631" alt="image" src="https://github.com/user-attachments/assets/00832ba3-e298-481a-a178-563f97dde755" />
+
 
 👨‍💻 Autor
 
