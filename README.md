@@ -61,7 +61,7 @@ Algumas linhas bem implementadas podem significar a diferença entre:
 👀 Apenas monitorar um sistema seguro
 📸 Preview
 
-<img width="1358" height="672" alt="image" src="https://github.com/user-attachments/assets/e641c976-96d6-49fc-8200-9650402b229c" />
+<img width="1349" height="631" alt="image" src="https://github.com/user-attachments/assets/00832ba3-e298-481a-a178-563f97dde755" />
 
 📌 Próximos Passos
 Implementação de proteção contra CSRF
