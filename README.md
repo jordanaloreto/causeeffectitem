@@ -1,6 +1,7 @@
 🔐 Secure Cause-Effect App
 
 Este projeto é uma adaptação do desafio proposto em:
+
 👉 Cause-Effect App Idea
 
 A proposta original foi expandida com um novo foco: desenvolvimento seguro (DevSec).
@@ -10,7 +11,9 @@ A proposta original foi expandida com um novo foco: desenvolvimento seguro (DevS
 A maioria dos ataques em aplicações web ocorre devido a:
 
 Má configuração do servidor
+
 Falta de validação no backend
+
 Confiança indevida no frontend
 
 Este projeto foi desenvolvido com o objetivo de demonstrar, na prática, como aplicar boas práticas de segurança desde aplicações simples, reforçando o princípio fundamental:
